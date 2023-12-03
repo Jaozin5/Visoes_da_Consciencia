@@ -1,0 +1,1 @@
+dialogue1 = "Breakfast";
